@@ -1,5 +1,6 @@
-### Hi there 👋
-Test
+### Hi 👋
+Hello, I'm a third-year software engineering student at McMaster University with an interest in cyber security and software development. I started coding in grade 12 creating an encryption software for my first big project. Now with 3+ coding experience in a wide range of languages such as Java, Python, and C, I am in search of my next big project.
+
 
 <!--
 **PromishKandel/PromishKandel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
