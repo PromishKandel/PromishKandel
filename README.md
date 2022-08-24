@@ -1,5 +1,5 @@
 ### Hi 👋
-I'm Promish, a passionate cyber security enthusiast currently studying at Mcmaster Univerity. I started coding in grade 12 creating an encryption software for my first big project. Now with 3+ coding experience in a wide range of languages such as Java, Python, and C, I am in search of my next big project.
+I'm Promish, a passionate cyber security enthusiast currently studying at Mcmaster Univerity. I started coding in grade 12, creating an encryption software for my first big project. Now with 3+ years of coding experience in a wide range of languages such as Java, Python, and C. I am in search of my next big project.
 
 🌱 I’m currently learning how to make a personal website using HTML, CSS and JavaScript inorder to learn the foundation of web development.
 --> CHECK IT OUT😄: https://promishkandel.netlify.app
