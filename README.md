@@ -5,8 +5,6 @@ In my most recent co-ops, I utilized C# and .NET to divide diverse datasets into
 
 I enjoy being part of a team and am always on the lookout for a mentor to help me learn and apply new technologies.
 
-🌱 I’m currently learning how to make a personal website using HTML, CSS and JavaScript inorder to learn the foundation of web development.
---> CHECK IT OUT😄: https://promishkandel.netlify.app
 
 
 
